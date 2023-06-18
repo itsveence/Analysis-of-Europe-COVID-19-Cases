@@ -11,7 +11,7 @@
 ## How to Use
 
 - Download the dataset from https://github.com/CSSEGISandData/COVID-19 to your working directory
-- Update the file path in cell 3 and 11 to match yours
+- Update the file path in cell 3 and 11 of Analysis_of_Global_COVID-19_Cases.ipynb to match yours
 - Run all the cells
 - Run the server in terminal
 
