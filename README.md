@@ -20,5 +20,5 @@
 panel serve Analysis_of_Europe_COVID-19_Cases.ipynb
 ```
 
-![Project_Screenshot](https://github.com/itsveence/Analysis-of-Europe-COVID-19-Cases/assets/20642373/34e7dab4-9345-44c7-b033-427014c8f74f)
+![Project_Screenshot](https://github.com/itsveence/Analysis-of-Europe-COVID-19-Cases/assets/20642373/a5f4434d-5cdb-49e2-942b-21d5bbde08df)
 
