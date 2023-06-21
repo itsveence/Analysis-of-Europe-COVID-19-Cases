@@ -10,8 +10,8 @@
 
 ## How to Use
 
-- Download the dataset from https://github.com/CSSEGISandData/COVID-19 to your working directory
-- Update the file path in cell 3 and 11 of Analysis_of_Europe_COVID-19_Cases.ipynb to match yours
+- Download the dataset from https://github.com/CSSEGISandData/COVID-19 and https://ourworldindata.org/grapher/population-density to your working directory
+- Update the file path in cell 4, 10 and 11 of Analysis_of_Europe_COVID-19_Cases.ipynb to match yours
 - Run all the cells
 - Run the server in terminal
 
